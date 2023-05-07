@@ -7,6 +7,7 @@ public class Main {
         for (int i = 0; i < inArray.length; i++) {
             outArray[i] = inArray[inArray.length - i - 1];
             System.out.println(outArray[i]);
+
         }
     }
 }
